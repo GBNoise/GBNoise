@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer</h3>
 
 - 🏢 Currently working @ San Services Honduras as a Technician in the E-Marketing Department.
-- 👨🏾‍💻 Working on TypeScript, Golang, React, React-Native side-projects.
+- 👨🏻‍💻 Working on TypeScript, Golang, React, React-Native side-projects.
 
 <div align="center">
  <a href="https://www.linkedin.com/in/guillermo-bola%C3%B1os">
